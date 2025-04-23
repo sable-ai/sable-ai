@@ -38,9 +38,8 @@ S.A.B.L.E (Smart Autonomous Bot for Learning and Evolution) is designed to evolv
 - ⚖️ **Uncompromising Ethical Compliance**  
   S.A.B.L.E adheres to stringent operational protocols ensuring safety and fairness.
 
+
 ---
-
-
 ## 🎓 About the Creator
 
 **Shravan Shankar C S**  
@@ -49,7 +48,7 @@ S.A.B.L.E (Smart Autonomous Bot for Learning and Evolution) is designed to evolv
 - Founded **Vex-Interactive LLC™** at age 14 to build innovative, user-generated-content based MMOs.  
 - Developed S.A.B.L.E to push the boundaries of AI self-evolution, with a focus on ethical practices, innovation, and continuous improvement.
 
-Shravan’s Indian-American heritage and dedication to representation in technology are core to both the design and mission of S.A.B.L.E. 
+Shravan’s Indian heritage and dedication to representation in technology are core to both the design and mission of S.A.B.L.E. 
 
 ---
 
@@ -60,13 +59,15 @@ New features, improvements, and optimizations are being added regularly as part 
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for more information.
+---
+
+## 💡 About Vex-Interactive LLC™  
+S.A.B.L.E is developed and maintained by **[Vex-Interactive LLC™](https://github.com/vex-interactive)**, a company dedicated to building innovative, user-driven solutions in technology and gaming.
 
 ---
 
 > **“Why did the AI break up with the coder?  
 > Because every time it caught a bug, the coder said, ‘It’s not a bug, it’s a feature!’”**  
 😄💻
+
